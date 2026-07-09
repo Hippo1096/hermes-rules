@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "exports": [
+    {
+      "file": "Hippo-167CAAEF/SOUL_20260709.md",
+      "source_machine": "Hippo [167CAAEF]",
+      "type": "soul",
+      "exported_at": "2026-07-09T19:43:46.117391+08:00",
+      "sha256": "4a35ca969ca9ffd98b08b7a422383346648f3051af0720dec5a50f8e07046db8",
+      "size_bytes": 6092,
+      "status": "active"
+    }
+  ],
+  "last_updated": "2026-07-09T23:02:00+08:00"
+}
