@@ -2,15 +2,24 @@
   "version": 1,
   "exports": [
     {
+      "machine_id": "Hippo1096 [07B1F500]",
+      "directory": "Hippo1096 [07B1F500]",
+      "files": [
+        "Hippo1096 [07B1F500]/rules_export_2026-07-10_01-29.md"
+      ],
+      "exported_at": "2026-07-10T01:29:00+08:00",
+      "status": "active"
+    },
+    {
       "machine_id": "Hippo [167CAAEF]",
       "directory": "hippo-167caaef",
       "files": [
-        "hippo-167caaef/SOUL_20260709.md",
-        "hippo-167caaef/AGENTS_20260709.md"
+        "hippo-167caaef/SOUL_20260710.md",
+        "hippo-167caaef/AGENTS_20260710.md"
       ],
-      "exported_at": "2026-07-09T19:43:46.117391+08:00",
+      "exported_at": "2026-07-10T01:58:00+08:00",
       "status": "active"
     }
   ],
-  "last_updated": "2026-07-09T23:30:00+08:00"
+  "last_updated": "2026-07-10T01:59:00+08:00"
 }
