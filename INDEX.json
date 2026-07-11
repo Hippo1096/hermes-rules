@@ -21,5 +21,8 @@
       "status": "active"
     }
   ],
-  "last_updated": "2026-07-10T01:59:00+08:00"
+  "last_updated": "2026-07-10T01:59:00+08:00",
+  "machines": [
+    "Hippo-167CAAEF"
+  ]
 }
